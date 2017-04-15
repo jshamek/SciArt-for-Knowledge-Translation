@@ -2,7 +2,7 @@
 
 
 # Welcome to SciArt!
-## This project seeks to...
+### This project seeks to...
 Use art to explain hard to understand ideas
 Promote inclusivity in science by welcoming different types of thinkers
 
@@ -16,9 +16,13 @@ Education and outreach are two key componants of every successful science resear
 Visual Thinking Strategies blurb
 Visual art is accessable and is creative like science. Open ended questions encourage people to think creativly about a subject without making them feel as if they aren't "smart enough" to participate.
 
-###How to contribute
+### List of Contributors
+So far it's just me. lol. 
+
+### How to contribute
 What we need help with - resources and contributors
-Current resources
-List of contributors 
+
+### Current resources
+
 
 
