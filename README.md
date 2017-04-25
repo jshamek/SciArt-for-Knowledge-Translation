@@ -3,9 +3,9 @@
 
 # Welcome to SciArt!
 ### This project seeks to...
-Engage the publics existing knowledge to help them understand science research
-Promote inclusivity in science by welcoming different types of learning and promoting the creative nature of science research
-Create a ranked and generalizable open source model available to all science researchers
+* Engage the publics existing knowledge to help them understand science research
+* Promote inclusivity in science by welcoming different types of learning and promoting the creative nature of science research
+* Create a ranked and generalizable open source model available to all science researchers
 
 ## There is a gap between researchers and the public 
 Due to the high degree of specificity required, the language that scientists use to describe their research is often next to impossible for the public to understand. This leads to people who might be from different backgrounds or think differntly to be excluded from understanding science and potentially becoming scientists. Science is a creative field and there is space in science for people from all walks of life. Not only is there space, but these people are needed in order to move science foward.
@@ -25,7 +25,6 @@ Visual art is accessable and is creative like science. Open ended questions enco
 
 
 ### Current resources
-1. Tyler, Christopher W., and Lora T. Likova. "The role of the visual arts in enhancing the learning process." Frontiers in human neuroscience 6 (2012).
+1. BouJaoude, Saouma. "Conceptions of science teaching revealed by metaphors and by answers to open-ended questions." Journal of Science Teacher Education 11.2 (2000): 173-186.
 2. Bruna, Carola. "Motivating active learning of biochemistry through artistic representation of scientific concepts." Journal of Biological Education 47.1 (2013): 46-51.
-3. BouJaoude, Saouma. "Conceptions of science teaching revealed by metaphors and by answers to open-ended questions." Journal of Science Teacher Education 11.2 (2000): 173-186.
-
+3. Tyler, Christopher W., and Lora T. Likova. "The role of the visual arts in enhancing the learning process." Frontiers in human neuroscience 6 (2012).
