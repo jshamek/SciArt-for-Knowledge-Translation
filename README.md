@@ -19,7 +19,7 @@ Visual art is accessable and is creative like science. Open ended questions enco
 ### List of Contributors
 
 ### How to contribute
-#### Do you know any educational models? Please send them my way!
+#### Do you know of any educational models that could inform this model?
 #### What about an open access platform that could host a model like this?
 #### Are you aware of any education research that could inform this model?
 
