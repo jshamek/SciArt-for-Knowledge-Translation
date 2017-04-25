@@ -19,13 +19,13 @@ Visual art is accessable and is creative like science. Open ended questions enco
 ### List of Contributors
 
 ### How to contribute
-Do you know any educational models? Please send them my way!
-What about an open access platform that could host a model like this?
-Are you aware of any education research that could inform this model?
+#### Do you know any educational models? Please send them my way!
+#### What about an open access platform that could host a model like this?
+#### Are you aware of any education research that could inform this model?
 
 
 ### Current resources
-Tyler, Christopher W., and Lora T. Likova. "The role of the visual arts in enhancing the learning process." Frontiers in human neuroscience 6 (2012).
-Bruna, Carola. "Motivating active learning of biochemistry through artistic representation of scientific concepts." Journal of Biological Education 47.1 (2013): 46-51.
-BouJaoude, Saouma. "Conceptions of science teaching revealed by metaphors and by answers to open-ended questions." Journal of Science Teacher Education 11.2 (2000): 173-186.
+1. Tyler, Christopher W., and Lora T. Likova. "The role of the visual arts in enhancing the learning process." Frontiers in human neuroscience 6 (2012).
+2. Bruna, Carola. "Motivating active learning of biochemistry through artistic representation of scientific concepts." Journal of Biological Education 47.1 (2013): 46-51.
+3. BouJaoude, Saouma. "Conceptions of science teaching revealed by metaphors and by answers to open-ended questions." Journal of Science Teacher Education 11.2 (2000): 173-186.
 
