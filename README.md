@@ -14,9 +14,9 @@ Due to the high degree of specificity required, the language that scientists use
 Education and outreach are two key componants of every successful science research project. However, while science eduation research has made huge strides in the last decade, the research has yet to be translated into tools for researchers to use. This project seeks to address that gap by creating an open access, tested model that is generalizable enough for all types of scientists to apply to their own research and educate the public. 
 
 ## How does visual art fit into it?
-Visual art is accessable and is creative like science. Open ended questions encourage people to think creativly about a subject without making them feel as if they aren't "smart enough" to participate.
+Visual art is accessable and is creative like science. This model will use art and open ended questions to engage existing knowledge. Open ended questions encourage people to think creativly about a subject without making them feel as if they aren't "smart enough" to participate.
 
-### List of Contributors
+### List of Contributors:Currently looking for contributors
 
 ### How to contribute
 #### Do you know of any educational models that could inform this model?
@@ -25,6 +25,7 @@ Visual art is accessable and is creative like science. Open ended questions enco
 
 
 ### Current resources
-1. BouJaoude, Saouma. "Conceptions of science teaching revealed by metaphors and by answers to open-ended questions." Journal of Science Teacher Education 11.2 (2000): 173-186.
-2. Bruna, Carola. "Motivating active learning of biochemistry through artistic representation of scientific concepts." Journal of Biological Education 47.1 (2013): 46-51.
-3. Tyler, Christopher W., and Lora T. Likova. "The role of the visual arts in enhancing the learning process." Frontiers in human neuroscience 6 (2012).
+1. The Field Project: http://www.thefieldproject.com/
+2. BouJaoude, Saouma. "Conceptions of science teaching revealed by metaphors and by answers to open-ended questions." Journal of Science Teacher Education 11.2 (2000): 173-186.
+3. Bruna, Carola. "Motivating active learning of biochemistry through artistic representation of scientific concepts." Journal of Biological Education 47.1 (2013): 46-51.
+4. Tyler, Christopher W., and Lora T. Likova. "The role of the visual arts in enhancing the learning process." Frontiers in human neuroscience 6 (2012).
