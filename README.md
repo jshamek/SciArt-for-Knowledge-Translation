@@ -8,13 +8,13 @@
 * Create a ranked and generalizable open source model available to all science researchers
 
 ## There is a gap between researchers and the public 
-Due to the high degree of specificity required, the language that scientists use to describe their research is often next to impossible for the public to understand. This leads to people who might be from different backgrounds or think differntly to be excluded from understanding science and potentially becoming scientists. Science is a creative field and there is space in science for people from all walks of life. Not only is there space, but these people are needed in order to move science foward.
+Due to the high degree of specificity required, the language that scientists use to describe their research is often next to impossible for the public to understand. This leads to people who might be from different backgrounds or think differently to be excluded from understanding science and potentially becoming scientists. Science is a creative field and there is space in science for people from all walks of life. Not only is there space, but these people are needed in order to move science foward.
 
 ## How do we address this Gap?
 Education and outreach are two key componants of every successful science research project. However, while science eduation research has made huge strides in the last decade, the research has yet to be translated into tools for researchers to use. This project seeks to address that gap by creating an open access, tested model that is generalizable enough for all types of scientists to apply to their own research and educate the public. 
 
 ## How does visual art fit into it?
-Visual art is accessable and is creative like science. This model will use art and open ended questions to engage existing knowledge. Open ended questions encourage people to think creativly about a subject without making them feel as if they aren't "smart enough" to participate.
+Visual art is accessable and is creative like science. This model will use art and open ended questions to engage existing knowledge in a way similar to that of talk back boards used at museums. Open ended questions encourage people to think creativly about a subject without making them feel as if they aren't "smart enough" to participate.
 
 ### List of Contributors:Currently looking for contributors
 
